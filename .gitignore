@@ -1,0 +1,28 @@
+# Unreal Engine
+################
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+obj/
+
+# Visual Studio files
+####################
+*.VC.db
+*.VC.VC.opendb
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vs/
+.vscode/
+landscape_tut/
+
+# Other
+#########
+*.zip
+*.rar
+*.7z
